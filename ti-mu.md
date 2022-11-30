@@ -30,12 +30,8 @@ https://opendata.sz.gov.cn/data/dataSet/toDataDetails/29200_00403601
 
 https://gitee.com/333-joy/SZT-bigdata
 
-https://www.yunshudu.com/byte.html?id=5
 
 ## 出租车轨迹数据分析
-https://www.yunshudu.com/byte.html?id=1
-
-http://urban-computing.com/index-58.htm
 
 https://github.com/jbremz/Beijing-Trajectories-Project
 
